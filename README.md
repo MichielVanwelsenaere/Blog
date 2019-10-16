@@ -1,2 +1,2 @@
-# Blog
-Blogposts written by Michiel Vanwelsenaere
+# Blog 
+Blog posts written by Michiel Vanwelsenaere
